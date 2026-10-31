@@ -1,0 +1,2 @@
+train_interactions,test_interactions,evaluable_interactions,excluded_test_interactions,rmse_collaborative,train_seconds,ranking_seconds_all_models,seed,factors,epochs,alpha,candidate_policy,relevance_policy
+100226,610,587,23,1.0264183126391635,14.841681300022174,3.121213500009617,42,20,12,0.75,peliculas del entrenamiento no valoradas por el usuario,ultima interaccion de cada usuario

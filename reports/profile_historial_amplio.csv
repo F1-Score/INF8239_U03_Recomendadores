@@ -1,0 +1,11 @@
+movieId,collaborative_score,method,title,genres,profile,userId
+2324,4.589133493849654,collaborative,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War,historial_amplio,414
+1203,4.500309186015419,collaborative,12 Angry Men (1957),Drama,historial_amplio,414
+1219,4.357706501420029,collaborative,Psycho (1960),Crime|Horror,historial_amplio,414
+914,4.328894403885139,collaborative,My Fair Lady (1964),Comedy|Drama|Musical|Romance,historial_amplio,414
+1230,4.310670658977168,collaborative,Annie Hall (1977),Comedy|Romance,historial_amplio,414
+246,4.286525313681592,collaborative,Hoop Dreams (1994),Documentary,historial_amplio,414
+1258,4.286292936211806,collaborative,"Shining, The (1980)",Horror,historial_amplio,414
+922,4.271964032371352,collaborative,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,historial_amplio,414
+31658,4.261993434826396,collaborative,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Adventure|Animation|Fantasy|Romance,historial_amplio,414
+92259,4.228366380620446,collaborative,Intouchables (2011),Comedy|Drama,historial_amplio,414

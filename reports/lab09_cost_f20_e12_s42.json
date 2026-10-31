@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "factors": 20,
+  "epochs": 12,
+  "users": 610,
+  "items": 9701,
+  "evaluable_ratings": 587,
+  "rmse": 1.0264183126391635,
+  "total_parameters": 206220,
+  "matrix_size_mib": 1.5733,
+  "training_seconds": 15.0776
+}

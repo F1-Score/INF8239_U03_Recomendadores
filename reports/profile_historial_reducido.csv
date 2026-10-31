@@ -1,0 +1,11 @@
+movieId,collaborative_score,method,title,genres,profile,userId
+858,4.150069865282864,collaborative,"Godfather, The (1972)",Crime|Drama,historial_reducido,595
+593,4.113794477949626,collaborative,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,historial_reducido,595
+912,4.0962446810512585,collaborative,Casablanca (1942),Drama|Romance,historial_reducido,595
+2959,4.091308028625543,collaborative,Fight Club (1999),Action|Crime|Drama|Thriller,historial_reducido,595
+527,4.08785111878677,collaborative,Schindler's List (1993),Drama|War,historial_reducido,595
+1203,4.08433703366799,collaborative,12 Angry Men (1957),Drama,historial_reducido,595
+7153,4.084322389505799,collaborative,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,historial_reducido,595
+4993,4.082195434609639,collaborative,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,historial_reducido,595
+318,4.07494761448524,collaborative,"Shawshank Redemption, The (1994)",Crime|Drama,historial_reducido,595
+1221,4.069071495390166,collaborative,"Godfather: Part II, The (1974)",Crime|Drama,historial_reducido,595

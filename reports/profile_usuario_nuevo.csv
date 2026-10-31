@@ -1,0 +1,11 @@
+movieId,method,title,genres,profile,userId
+356,popularity_fallback,Forrest Gump (1994),Comedy|Drama|Romance|War,usuario_nuevo,999999
+318,popularity_fallback,"Shawshank Redemption, The (1994)",Crime|Drama,usuario_nuevo,999999
+296,popularity_fallback,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,usuario_nuevo,999999
+2571,popularity_fallback,"Matrix, The (1999)",Action|Sci-Fi|Thriller,usuario_nuevo,999999
+593,popularity_fallback,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,usuario_nuevo,999999
+260,popularity_fallback,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,usuario_nuevo,999999
+110,popularity_fallback,Braveheart (1995),Action|Drama|War,usuario_nuevo,999999
+480,popularity_fallback,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,usuario_nuevo,999999
+589,popularity_fallback,Terminator 2: Judgment Day (1991),Action|Sci-Fi,usuario_nuevo,999999
+2959,popularity_fallback,Fight Club (1999),Action|Crime|Drama|Thriller,usuario_nuevo,999999
