@@ -1,0 +1,18 @@
+# Entorno y cachés
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secretos locales
+.env
+
+# MovieLens no se redistribuye: cada persona lo descarga con scripts/download_data.py
+data/raw/*
+!data/raw/.gitkeep
+
+# Artefactos de modelos (se regeneran con los scripts)
+models/*
+!models/.gitkeep
